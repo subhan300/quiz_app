@@ -1,0 +1,43 @@
+
+
+.options{
+    /* border:2px solid blue; */
+    justify-content: center;
+}
+
+
+.btn_options{
+    padding:1rem 5rem;
+    background-color:pink;
+    border:1px solid pink;
+    border-radius:10px;
+}
+
+.btn_options:focus{
+    display: none;
+}
+
+
+.next_btn{
+    margin-top:2rem;
+    padding:.6rem 5rem;
+    background-color:blueviolet;
+    border:1px solid blueviolet;
+    border-radius:10px;
+    color:white;
+    font-size: 30px;
+    margin-bottom: 3rem;
+
+}
+
+.common_title{
+    font-size: 18px;
+    margin-top: 10px;
+    font-weight: bold;
+}
+
+.question_text
+{    margin-top: 1rem;
+    color:black;
+    font-size: 18px;
+}
