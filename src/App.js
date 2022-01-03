@@ -6,7 +6,7 @@ import questionCard from "./questions.json"
 // import LinearWithValueLabel from "./QuizCard/ProgressBar";
 function App() {
   console.log("question card  : ",questionCard)
-  let TotalQustions=questionCard.length
+  // let TotalQustions=questionCard.length
 
   let userOption=useState("")
   let [counter,setCounter]=useState(0)
