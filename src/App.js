@@ -28,7 +28,7 @@ function App() {
   
  }
  else{
-   console.log("stop the quiz")
+   console.log("stop the Quiz")
 
    setAnsResponse("")
    disabled[1](true)
